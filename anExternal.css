@@ -1,0 +1,45 @@
+h1{border-style: dotted;}
+
+h2 {
+    border-radius: 25px;
+    border: 2px solid #fafafa;
+}
+
+body{
+    background-image: url("background.jpeg");
+}
+
+#one {
+    font-family: "Times New Roman";
+    border-radius: 25px;
+}
+  
+#two {
+    font-family: "Arial";
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+#centered {
+    position: absolute;
+    top: 40px;
+    left: 150px;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+#margin {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    float:left;
+}
+
+#paragraph{
+    margin-top: 20px;
+}
